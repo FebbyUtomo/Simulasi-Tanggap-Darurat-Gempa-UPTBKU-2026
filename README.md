@@ -35,7 +35,9 @@ Satu file HTML mandiri (16:9, full-screen TV):
 
 ## Menampilkan di TV
 
-Buka URL deployment Vercel repo ini di browser TV, lalu tekan Layar Penuh.
+**URL live (Vercel): https://simulasi-tanggap-darurat-gempa-uptb.vercel.app/**
+
+Buka URL di atas di browser TV, lalu tekan Layar Penuh.
 Semua data di atas adalah **SIMULASI** sesuai naskah TTX BCP — bukan kondisi nyata.
 
 ## Aset UPT Bengkulu (konteks)
